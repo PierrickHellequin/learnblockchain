@@ -1,6 +1,0 @@
-[submodule "5. DApp/whitelist-system-with-heroku"]
-	path = 5. DApp/whitelist-system-with-heroku
-	url = https://github.com/Alyra-school/whitelist-system-with-heroku
-[submodule "5. DApp/whitelist-react-box"]
-	path = 5. DApp/whitelist-react-box
-	url = https://github.com/Alyra-school/whitelist-react-box

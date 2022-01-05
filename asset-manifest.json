@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/learnblockchain/static/css/main.b100e6da.chunk.css",
-    "main.js": "/learnblockchain/static/js/main.8f387b3d.chunk.js",
-    "main.js.map": "/learnblockchain/static/js/main.8f387b3d.chunk.js.map",
+    "main.js": "/learnblockchain/static/js/main.98ab7cb2.chunk.js",
+    "main.js.map": "/learnblockchain/static/js/main.98ab7cb2.chunk.js.map",
     "runtime-main.js": "/learnblockchain/static/js/runtime-main.07a9845c.js",
     "runtime-main.js.map": "/learnblockchain/static/js/runtime-main.07a9845c.js.map",
     "static/css/2.3661fc73.chunk.css": "/learnblockchain/static/css/2.3661fc73.chunk.css",
     "static/js/2.4a62d34b.chunk.js": "/learnblockchain/static/js/2.4a62d34b.chunk.js",
     "static/js/2.4a62d34b.chunk.js.map": "/learnblockchain/static/js/2.4a62d34b.chunk.js.map",
     "index.html": "/learnblockchain/index.html",
-    "precache-manifest.30d846a3fa78940ee1bd50bc2e2f362c.js": "/learnblockchain/precache-manifest.30d846a3fa78940ee1bd50bc2e2f362c.js",
+    "precache-manifest.abcbb9b2f45c571e81f37373909ca854.js": "/learnblockchain/precache-manifest.abcbb9b2f45c571e81f37373909ca854.js",
     "service-worker.js": "/learnblockchain/service-worker.js",
     "static/css/2.3661fc73.chunk.css.map": "/learnblockchain/static/css/2.3661fc73.chunk.css.map",
     "static/css/main.b100e6da.chunk.css.map": "/learnblockchain/static/css/main.b100e6da.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.3661fc73.chunk.css",
     "static/js/2.4a62d34b.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.8f387b3d.chunk.js"
+    "static/js/main.98ab7cb2.chunk.js"
   ]
 }

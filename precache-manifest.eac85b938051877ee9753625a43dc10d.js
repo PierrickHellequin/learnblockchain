@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc6b6550badd5d04bd1a504bb8b541a5",
+    "revision": "9a2aa5d4b442f992e7e4782ceaa112c1",
     "url": "/learnblockchain/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/learnblockchain/static/css/2.3661fc73.chunk.css"
   },
   {
-    "revision": "c166543998b1df1652d4",
+    "revision": "659ed924f3e4ae2e9338",
     "url": "/learnblockchain/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/learnblockchain/static/js/2.4f60b9e4.chunk.js"
   },
   {
-    "revision": "c166543998b1df1652d4",
-    "url": "/learnblockchain/static/js/main.bb2d400e.chunk.js"
+    "revision": "659ed924f3e4ae2e9338",
+    "url": "/learnblockchain/static/js/main.cd81292b.chunk.js"
   },
   {
     "revision": "7afabd0f2fdeec2974cc",
